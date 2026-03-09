@@ -1,0 +1,18 @@
+# Sanal Ortam (Virtual Environment)
+venv/
+env/
+
+# Python önbellek dosyaları
+__pycache__/
+*.pyc
+
+# Yapay Zeka Model Ağırlıkları (YOLO model dosyası)
+*.pt
+
+# Video dosyaları (Çok yer kapladığı için yüklenmez)
+*.mp4
+*.avi
+*.mov
+
+# İşletim sistemi kalıntıları (Özellikle Mac kullanıyorsan)
+.DS_Store
