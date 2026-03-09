@@ -28,12 +28,12 @@ Projenin yerel bilgisayarında çalışması için aşağıdaki adımları izley
 
 1. Repoyu bilgisayarına klonla:
    ```bash
-   git clone [https://github.com/](https://github.com/)[Senin_Kullanici_Adin]/[Repo_Adin].git
+   git clone https://github.com/ege-tanriverdi/VAR-Offside-AI.git
 Gerekli kütüphaneleri yükle:
 
 Bash
 pip install ultralytics opencv-python scikit-learn numpy
-Test videonu (test_video.mp4 adıyla) ana dizine ekle ve kodu çalıştır:
+Kodu çalıştır:
 
 Bash
 python main.py
