@@ -19,7 +19,7 @@ Gerçek dünya problemlerini çözmek amacıyla geliştirilen bu sistem; oyuncul
 * **NumPy** (Matris ve koordinat hesaplamaları)
 
 ## 🎥 Demo
-*(Buraya sistemin çalışırken kaydettiği output_var.mp4 videosundan aldığın kısa bir GIF'i veya ekran görüntüsünü ekleyebilirsin)*
+
 <video src="output_var.mp4" width="100%" controls></video>
 
 ## 💻 Kurulum ve Çalıştırma
