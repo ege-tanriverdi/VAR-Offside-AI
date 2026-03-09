@@ -19,9 +19,11 @@ Gerçek dünya problemlerini çözmek amacıyla geliştirilen bu sistem; oyuncul
 * **NumPy** (Matris ve koordinat hesaplamaları)
 
 ## 🎥 Demo
+Aşağıdaki videoda sistemin oyuncu tespiti, takım ayrımı ve dinamik VAR çizgisi oluşturma performansı görülebilir:
 
 <video src="output_var.mp4" width="100%" controls></video>
 
+---
 ## 💻 Kurulum ve Çalıştırma
 
 Projenin yerel bilgisayarında çalışması için aşağıdaki adımları izleyebilirsin:
